@@ -9,4 +9,5 @@
 - recursion video by freecodecamp half
 ## 4
 - [alignment and padding](https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/ "geeks for geeks")
+- oops by love babbar
 - 
